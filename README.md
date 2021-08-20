@@ -20,6 +20,7 @@ As the goal of the project was to forecast the revenue for the remainder of Dece
 
 Having cleaned the data, I learned that there were a few weekly outliers in the data for November 2015. The two weeks had no sale items or purchases, this was an aberration to me because the data showed positive sales for November 2013 and 2014. Thus, I removed these outliers as I attributed the lack of information as either a data engineering/storage issue, unreported revenue data, an item inventory issue, or some other unique circumstance as the historical data did not suggest that there should have been no observations for the weeks of November 2015. 
 
+![Exploratory Data Analysis Visualization](https://github.com/artwang31/Time-Series-Forecasting-and-Analysis/blob/main/1%20EDA.png)
 
 
 
