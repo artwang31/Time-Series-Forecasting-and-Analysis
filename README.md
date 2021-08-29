@@ -26,6 +26,16 @@ Before I can adequately forecast revenue, I had to check if the data showed any 
 
 ![Exploratory Data Analysis Visualization](https://github.com/artwang31/Time-Series-Forecasting-and-Analysis/blob/main/1%20EDA%20Plot.png)
 
+Once I did this, the data seemed to reveal some sort of seasonality in weeks 48-50 and weeks 98-102. This could mean that more purchases are made by vendors 25 and 31 towards the later part of the calendar year.
+
+**Checking for Seasonality and Stationarity**
+
+Looking deeper, I created another plot to look at the mean and standard deviations over time. The plot indicated that the data is indeed stationary but it also exhibits seasonality. The mean and standard deviation lines were smoothed with a lag of four weeks to check for any non-stationarity issues.
+
+![Exploratory Data Analysis Visualization](https://github.com/artwang31/Time-Series-Forecasting-and-Analysis/blob/main/2%20EDA%20Mean%20SD.png)
+
+
+
 
 
 
