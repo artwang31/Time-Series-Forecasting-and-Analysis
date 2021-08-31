@@ -36,6 +36,7 @@ Looking deeper, I created another plot to look at the mean and standard deviatio
 
 To further test for stationarity issues, I performed an Augmented Dickey-Fuller test to example the test statistic, p- values, and coefficients. I needed to perform this test to make sure that the data are non-stationary (has some time-dependent structure such as an upward or downward trend in the data).
 
+![Exploratory Data Analysis Visualization](https://github.com/artwang31/Time-Series-Forecasting-and-Analysis/blob/main/3%20Dickey%20Fuller.png)
 
 
 
