@@ -38,5 +38,7 @@ To further test for stationarity issues, I performed an Augmented Dickey-Fuller 
 
 ![Exploratory Data Analysis Visualization](https://github.com/artwang31/Time-Series-Forecasting-and-Analysis/blob/main/3%20Dickey%20Fuller.png)
 
+The results indicated a test statistic that was smaller than all the critical values and a p-value that was lower than the .05 level-of-significance threshold. These were all good signs and pointed to the data being stationary, as the more negative the test statistic, the more likely we are to reject the null hypothesis (the data are non-stationary).
 
+Moreover, additional plots were created to compare trend lines, seasonality, and the residual plot, to the original data.
 
