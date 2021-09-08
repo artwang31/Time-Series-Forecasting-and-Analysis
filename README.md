@@ -42,3 +42,6 @@ The results indicated a test statistic that was smaller than all the critical va
 
 Moreover, additional plots were created to compare trend lines, seasonality, and the residual plot, to the original data.
 
+![Exploratory Data Analysis Visualization](https://github.com/artwang31/Time-Series-Forecasting-and-Analysis/blob/main/4%20Multi%20Plots.png)
+
+
