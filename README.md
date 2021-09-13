@@ -44,7 +44,7 @@ Moreover, additional plots were created to compare trend lines, seasonality, and
 
 ![Exploratory Data Analysis Visualization](https://github.com/artwang31/Time-Series-Forecasting-and-Analysis/blob/main/4%20Multi%20Plots.png)
 
-Implementing the Forecasting Model
+**Implementing the Forecasting Model**
 
 While the data passed the tests I implemented (smoothed mean visualization and Dickey Fuller test) for stationarity, it did not pass the seasonality test. Therefore, to perform an adequate model forecast, I decided to use the Seasonal Autoregressive Integrated Moving Average model, or SARIMA.
 
