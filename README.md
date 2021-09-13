@@ -44,4 +44,9 @@ Moreover, additional plots were created to compare trend lines, seasonality, and
 
 ![Exploratory Data Analysis Visualization](https://github.com/artwang31/Time-Series-Forecasting-and-Analysis/blob/main/4%20Multi%20Plots.png)
 
+Implementing the Forecasting Model
+
+While the data passed the tests I implemented (smoothed mean visualization and Dickey Fuller test) for stationarity, it did not pass the seasonality test. Therefore, to perform an adequate model forecast, I decided to use the Seasonal Autoregressive Integrated Moving Average model, or SARIMA.
+
+However, before creating the model, I visualized an Auto Correlation Function (ACF) and Partial Auto Correlation Function (PACF) to test the correlations between values separated by the given time period, as doing this provided me the necessary input parameters (p, d, q) for the SARIMA model. By looking at the two plots, there were more significant points out of the 0.02 significant level in the PACF plot and therefore the SARIMA model was the right choice.
 
