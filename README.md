@@ -50,3 +50,6 @@ While the data passed the tests I implemented (smoothed mean visualization and D
 
 However, before creating the model, I visualized an Auto Correlation Function (ACF) and Partial Auto Correlation Function (PACF) to test the correlations between values separated by the given time period, as doing this provided me the necessary input parameters (p, d, q) for the SARIMA model. By looking at the two plots, there were more significant points out of the 0.02 significant level in the PACF plot and therefore the SARIMA model was the right choice.
 
+![Exploratory Data Analysis Visualization](https://github.com/artwang31/Time-Series-Forecasting-and-Analysis/blob/main/5%20ACF%20PACF.png)
+
+
