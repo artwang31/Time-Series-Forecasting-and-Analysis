@@ -54,4 +54,7 @@ However, before creating the model, I visualized an Auto Correlation Function (A
 
 Once I implemented the model, I plotted the actual revenue of the data set in blue along with my forecasted revenue in orange. A side-by-side comparison effectively showcased that the model is effective in forecasting revenue.
 
+![Exploratory Data Analysis Visualization](https://github.com/artwang31/Time-Series-Forecasting-and-Analysis/blob/main/6%20Actual%20Forecast.png)
+
+
 
