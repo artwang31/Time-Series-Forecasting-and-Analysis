@@ -56,5 +56,5 @@ Once I implemented the model, I plotted the actual revenue of the data set in bl
 
 ![Exploratory Data Analysis Visualization](https://github.com/artwang31/Time-Series-Forecasting-and-Analysis/blob/main/6%20Actual%20Forecast.png)
 
-
+ 
 
