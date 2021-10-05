@@ -56,8 +56,10 @@ Once I implemented the model, I plotted the actual revenue of the data set in bl
 
 ![Exploratory Data Analysis Visualization](https://github.com/artwang31/Time-Series-Forecasting-and-Analysis/blob/main/6%20Actual%20Forecast.png)
 
-Predicting and Forecasting the Data
+**Predicting and Forecasting the Data**
+
 Finally, to predict the forecasted revenue for December 2015, I had to extend the date range in my data set and then predict the revenue for these new weeks. Once the timeline was extended, I then predicted the revenue on the new data in relation to the historical data provided to me. The prediction was extended by the orange line seen below and exhibited similar characteristics in terms of seasonality as the historical data. Based on my model,
+
 The total revenue of vendors 25 and 31 for the remainder of December 2015 is approximately $3,071,548.
 
  
