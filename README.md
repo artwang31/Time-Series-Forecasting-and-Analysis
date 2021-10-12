@@ -62,6 +62,9 @@ Finally, to predict the forecasted revenue for December 2015, I had to extend th
 
 The total revenue of vendors 25 and 31 for the remainder of December 2015 is approximately $3,071,548.
 
+![Exploratory Data Analysis Visualization](https://github.com/artwang31/Time-Series-Forecasting-and-Analysis/blob/main/7%20Result.png)
+
+
  
 
   
