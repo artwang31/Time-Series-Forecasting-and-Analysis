@@ -1,5 +1,5 @@
 # Time-Series-Forecasting-and-Analysis
-Predicted the revenue of vendors via time seeries forecasting.  
+Predicted the revenue of vendors via time series forecasting and analysis.  
 
 **ALL PERSONAL AND/OR UNIQUE IDENTIFIERS HAVE BEEN REMOVED FROM ALL SAMPLE DATA**  
 
