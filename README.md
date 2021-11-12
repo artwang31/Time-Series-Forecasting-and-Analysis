@@ -3,7 +3,6 @@ Predicted the revenue of vendors via time series forecasting and analysis.
 
 **ALL PERSONAL AND/OR UNIQUE IDENTIFIERS HAVE BEEN REMOVED FROM ALL SAMPLE DATA**  
 
-
 **CONTEXT**
 
 This project required me to forecast the revenue of a given number of clients. 
