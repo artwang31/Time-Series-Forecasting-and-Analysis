@@ -67,6 +67,16 @@ The total revenue of vendors 25 and 31 for the remainder of December 2015 is app
 
 The data and its nuances provided some challenging issues but revealed some interesting insights. In my analysis, because of the outliers (no data) that occurred in November 2015, this unique circumstance (not represented in previous years, 2013 and 2014) pushed the 2015 calendar year’s seasonal peak back by a few weeks.
 Historically, the peak in sales revenue usually occurs during mid-to-late December, in weeks 48-52 in 2013 and weeks 99-103 in 2014. However, because of the aforementioned outlier of 2-3 weeks which occurred in November 2015, it is my belief that this unique event pushed the expected peak in revenue back by a few weeks in my forecasted 2015 model. As such, what we see in the plot above adequately represents this lag; the peak actually occurs in weeks 156-160, which is approximately 2-3 weeks after the historical peak revenue seasons of 2013 and 2014.
+
+Despite these challenges, in order to improve on my model and analysis, I could have looked at the data in a variety of other ways. These ways included:
+
+- Analyzing other vendors and their revenue trends
+- Identifying the item_id to assess which, how many, and/or whether all items were missing for these
+months. It could be assumed that the outlier that occurred in November 2015 could be an inventory issue,
+unreported data mistake, or a data-flow issue from the Tech Data servers.
+- Refining my parameters in SARIMA to account for outliers and differences in lag and timing windows.
+- Performing more statistical tests to perfect my model so my predictions are more accurate.
+- Consulting with fellow data scientists about my methodology, approach, and forecasting.
  
 
   
