@@ -5,7 +5,7 @@ Predicted the revenue of vendors via time series forecasting and analysis.
 
 **CONTEXT**
 
-This project required me to forecast the revenue of a given number of clients. 
+This project required me to forecast the revenue of a given number of clients.
 
 **METHODOLOGY AND PROCESS**
 
