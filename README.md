@@ -9,7 +9,7 @@ This project required me to forecast the revenue of a given number of clients.
 
 **METHODOLOGY AND PROCESS**
 
-**Preparing the Data for Analysis**
+**Preparing the Data for Analysis**  
 
 I began my project by loading the required libraries to perform my analysis, reading in the dataset, and looking at the data types and structures of each column. This step was important because it allowed me to understand the data I am working with and what types of data preprocessing I needed to do before analysis. 
 
