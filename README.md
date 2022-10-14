@@ -73,7 +73,7 @@ Despite these challenges, in order to improve on my model and analysis, I could 
 - Analyzing other vendors and their revenue trends
 - Identifying the item_id to assess which, how many, and/or whether all items were missing for these
 months. It could be assumed that the outlier that occurred in November 2015 could be an inventory issue,
-unreported data mistake, or a data-flow issue from the Tech Data servers.
+unreported data mistake, or a data-flow issue from the servers.
 - Refining my parameters in SARIMA to account for outliers and differences in lag and timing windows.
 - Performing more statistical tests to perfect my model so my predictions are more accurate.
 - Consulting with fellow data scientists about my methodology, approach, and forecasting.
